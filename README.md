@@ -32,27 +32,26 @@ Working on LexiNote, I learned:
 ## Project Structure
 
 ```
-lexinote/
-  backend/
-    config/
-    controllers/
-    middleware/
-    models/
-    routes/
-    uploads/
-    server.js
-    package.json
-    ...
-  frontend/
-    public/
-    src/
-      components/
-      App.js
-      index.js
-      ...
-    package.json
-    ...
-  README.md
+LexiNote-Cloud-Based-Notes-App/
+                  backend/
+                      controllers/
+                      middleware/
+                      models/
+                      routes/
+                      uploads/
+                      server.js
+                      package.json
+                      ...
+                  frontend/
+                      public/
+                      src/
+                        components/
+                        App.js
+                        index.js
+                        ...
+                      package.json
+                      ...
+                  README.md
 ```
 
 ---
